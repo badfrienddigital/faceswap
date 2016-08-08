@@ -1,5 +1,7 @@
-Built a version of Faceswap locally.
-All based on code/tutorial by @matthewearl.
+Built a version of [faceswap](https://github.com/matthewearl/faceswap) locally.
+
+All code based on code/tutorial by @[matthewearl](https://github.com/matthewearl).
+
 Original README is below:
 
 ---
